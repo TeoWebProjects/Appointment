@@ -1,0 +1,29 @@
+.cstmlb_open{
+    background-image: url('../assets/images/calendar/new.png');/*../assets/images/ok.png*/
+    background-position: top 4px right 5px;
+    background-repeat: no-repeat;
+}
+
+.cstmlb_close{
+    background-image: url('../assets/images/calendar/ok.png');/*../assets/images/ok.png*/
+    background-position: top 4px right 5px;
+    background-repeat: no-repeat;
+}
+
+.cstmlb_work{
+    background-image: url('../assets/images/calendar/work2.png');/*../assets/images/ok.png*/
+    background-position: top 4px right 5px;
+    background-repeat: no-repeat;
+}
+
+.cstmlb_cancel{
+    background-image: url('../assets/images/calendar/not.png');/*../assets/images/ok.png*/
+    background-position: top 4px right 5px;
+    background-repeat: no-repeat;
+}
+
+.cstmlb_attention{
+    background-image: url('../assets/images/calendar/attention.png');/*../assets/images/ok.png*/
+    background-position: top 4px right 5px;
+    background-repeat: no-repeat;
+}
